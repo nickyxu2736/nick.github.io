@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <H1 style="color:DarkRed;">
-    Nick Trowell
+<head>
+      <link rel="stylesheet" href="css/mystyle.css">
+ <H1 style="color:DarkRed;">
+   Nick Trowell
   </H1>
   <p>  
     i am a student at towers highschool im pretty smart in my own way tho but life has been pretty okay 
